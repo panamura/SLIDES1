@@ -90,7 +90,7 @@ ul.bxslider {
 }
 /* DIRECTION CONTROLS (NEXT / PREV) */
 .bx-wrapper .bx-prev {
-  left: 10px;
+  left: -6px;
   background: url('https://cdn.jsdelivr.net/gh/panamura/AMS@main/controls.png') no-repeat 0 -32px;
 }
 .bx-wrapper .bx-prev:,
@@ -98,7 +98,7 @@ ul.bxslider {
   background-position: 0 0;
 }
 .bx-wrapper .bx-next {
-  right: 10px;
+  right: -6px;
   background: url('https://cdn.jsdelivr.net/gh/panamura/AMS@main/controls.png') no-repeat -43px -32px;
 }
 .bx-wrapper .bx-next:,
