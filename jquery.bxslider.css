@@ -91,7 +91,7 @@ ul.bxslider {
 /* DIRECTION CONTROLS (NEXT / PREV) */
 .bx-wrapper .bx-prev {
   left: -6px;
-  background: url('https://cdn.jsdelivr.net/gh/panamura/buttons@main/controls.png') no-repeat 0 -32px;
+  background: url('https://lh3.googleusercontent.com/DxrxBJFHeUGE9qAPSkDHb-i_dWJBRO6uEwLNvPCK0jwtqFhdUVDmijQdkwi5hSrVIAoqMw_MT1naOW9VfqjIMyOvv8ko5MOTzfl4wtCdp5GLkitiLPJq5TNh6thotCV2JHvSTtPM2A=w2400') no-repeat 0 -32px;
 }
 .bx-wrapper .bx-prev:,
 .bx-wrapper .bx-prev:focus {
@@ -99,7 +99,7 @@ ul.bxslider {
 }
 .bx-wrapper .bx-next {
   right: -6px;
-  background: url('https://cdn.jsdelivr.net/gh/panamura/buttons@main/controls.png') no-repeat -43px -32px;
+  background: url('https://lh3.googleusercontent.com/DxrxBJFHeUGE9qAPSkDHb-i_dWJBRO6uEwLNvPCK0jwtqFhdUVDmijQdkwi5hSrVIAoqMw_MT1naOW9VfqjIMyOvv8ko5MOTzfl4wtCdp5GLkitiLPJq5TNh6thotCV2JHvSTtPM2A=w2400') no-repeat -43px -32px;
 }
 .bx-wrapper .bx-next:,
 .bx-wrapper .bx-next:focus {
